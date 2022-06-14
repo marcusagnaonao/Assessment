@@ -1,0 +1,21 @@
+/* add code here to make your image 300px square */
+img {
+  object-fit: cover;
+  width:300px;
+  height:300px;
+}
+/* add code here to change the color and font family of your name/title */
+h1 {
+  color: green;
+  font-family: Lucida Handwriting;
+}
+
+h2 { color: green
+   
+}
+
+/* Bonus: change the color of your list elements */
+ol {
+  color: blue;
+  font-weight: bold
+}
